@@ -1,0 +1,932 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f0cdb632cbabdaa936691c9607aaac43"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "2758bb54d9c8a060ff25f40d708e2df1"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "99a9c549237f04b501682ead35569509"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "0dbe2aa6ff68ee10c9eaf9a26e93ae05"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/aleo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/aleo/aleo.woff2",
+        "type": "file",
+        "md5": "d972168af4846da95cd20803fd9e9b8b"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bbe9995f7e2156956f75b2b1201a8dc8"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "b2d91bcadbf5db401b76eb5bb3092eb7"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "edadc70a4de28c12ca24735b42f0f99d"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "92c2948f54b3fbcc72bd7c6755b6efea"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/andy-c-goad",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/andy-c-goad/index.html",
+        "type": "file",
+        "md5": "010e50f4977f48f36cc28d48de7bb1a8"
+    },
+    {
+        "path": "authors/andy-c-goad/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/andy-c-goad/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/andy-c-goad/page/2/index.html",
+        "type": "file",
+        "md5": "ab76c82a68189a797ceb1be1ee02f239"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "5710bfabcbeab9d3734185e30361663c"
+    },
+    {
+        "path": "creating-a-stylish-and-functional-bedroom-with-modern-wardrobe-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-stylish-and-functional-bedroom-with-modern-wardrobe-designs/index.html",
+        "type": "file",
+        "md5": "cbd4756cc232c64f50a1c3131d4d095b"
+    },
+    {
+        "path": "creating-a-stylish-and-organized-bedroom-with-modern-storage-solutions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-stylish-and-organized-bedroom-with-modern-storage-solutions/index.html",
+        "type": "file",
+        "md5": "d32e19e2749da1c0bc3d61fb8a9df606"
+    },
+    {
+        "path": "creating-an-organized-and-luxurious-bedroom-with-functional-storage-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-organized-and-luxurious-bedroom-with-functional-storage-furniture/index.html",
+        "type": "file",
+        "md5": "f5a4c899a6367d63f8cb8dd24ea99c7e"
+    },
+    {
+        "path": "creating-an-organized-and-stylish-closet-for-modern-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-organized-and-stylish-closet-for-modern-living/index.html",
+        "type": "file",
+        "md5": "da24bfd67aa24662bb1b06fab0974f07"
+    },
+    {
+        "path": "creating-an-organized-and-stylish-home-with-smart-shoe-storage-solutions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-organized-and-stylish-home-with-smart-shoe-storage-solutions/index.html",
+        "type": "file",
+        "md5": "b21977df7ad739082a518e1697e4806e"
+    },
+    {
+        "path": "creative-bedroom-storage-solutions-for-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-bedroom-storage-solutions-for-modern-homes/index.html",
+        "type": "file",
+        "md5": "0241762c9a6326b0b362ee74576a9b0f"
+    },
+    {
+        "path": "elegant-bedroom-storage-ideas-for-protecting-and-organizing-personal-accessories",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-bedroom-storage-ideas-for-protecting-and-organizing-personal-accessories/index.html",
+        "type": "file",
+        "md5": "7a703d706e0881d37e64ac6cdcbf95ed"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e9899df1bf7c56d87f5085dcde98378f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "878def9aa551f049a0c08e611d133b5b"
+    },
+    {
+        "path": "how-to-create-a-brighter-and-more-spacious-bedroom-with-smart-design-choices",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-create-a-brighter-and-more-spacious-bedroom-with-smart-design-choices/index.html",
+        "type": "file",
+        "md5": "13a10f5329406dae364116bbfa293d46"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "6b6463b032b5e0a7b689d696856922bc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/images-2026-11-24T190648.676.jpg",
+        "type": "file",
+        "md5": "c5e51c40c81d07cfa66142a916e9386a"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-24T190648.676-md.jpg",
+        "type": "file",
+        "md5": "be41cf2b5b6edac6670ec2264cec006a"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-24T190648.676-sm.jpg",
+        "type": "file",
+        "md5": "be41cf2b5b6edac6670ec2264cec006a"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-24T190648.676-xl.jpg",
+        "type": "file",
+        "md5": "be41cf2b5b6edac6670ec2264cec006a"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-24T190648.676-xs.jpg",
+        "type": "file",
+        "md5": "83337dec97e4d726d6640985092d042f"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/images-2026-11-24T194458.044-2.jpg",
+        "type": "file",
+        "md5": "70f4088f0417854c79590e8001337d3a"
+    },
+    {
+        "path": "/media/posts/11/images-2026-11-24T194458.044.jpg",
+        "type": "file",
+        "md5": "70f4088f0417854c79590e8001337d3a"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-2-md.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-2-sm.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-2-xl.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-2-xs.jpg",
+        "type": "file",
+        "md5": "c4f4ef4bd4183ac770eb9d54eb11214c"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-md.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-sm.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-xl.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-24T194458.044-xs.jpg",
+        "type": "file",
+        "md5": "c4f4ef4bd4183ac770eb9d54eb11214c"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/images-2026-11-24T194458.044.jpg",
+        "type": "file",
+        "md5": "70f4088f0417854c79590e8001337d3a"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/images-2026-11-24T194458.044-md.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-2026-11-24T194458.044-sm.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-2026-11-24T194458.044-xl.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-2026-11-24T194458.044-xs.jpg",
+        "type": "file",
+        "md5": "c4f4ef4bd4183ac770eb9d54eb11214c"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/images-2026-11-24T194458.044.jpg",
+        "type": "file",
+        "md5": "70f4088f0417854c79590e8001337d3a"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-24T194458.044-md.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-24T194458.044-sm.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-24T194458.044-xl.jpg",
+        "type": "file",
+        "md5": "95cc798c1901afbee32b2a408538d601"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-24T194458.044-xs.jpg",
+        "type": "file",
+        "md5": "c4f4ef4bd4183ac770eb9d54eb11214c"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/images-2026-11-24T195525.752-2.jpg",
+        "type": "file",
+        "md5": "c825252600c29d8613dd35e3bfd1b459"
+    },
+    {
+        "path": "/media/posts/14/images-2026-11-24T195525.752.jpg",
+        "type": "file",
+        "md5": "c825252600c29d8613dd35e3bfd1b459"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-2-md.jpg",
+        "type": "file",
+        "md5": "7119994abc4cdacd13db5097ec309346"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-2-sm.jpg",
+        "type": "file",
+        "md5": "119dfeb326641bb9125190c1dd755178"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-2-xl.jpg",
+        "type": "file",
+        "md5": "7119994abc4cdacd13db5097ec309346"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-2-xs.jpg",
+        "type": "file",
+        "md5": "25ed8448f5055c4584a25a04c9851ac4"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-md.jpg",
+        "type": "file",
+        "md5": "7119994abc4cdacd13db5097ec309346"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-sm.jpg",
+        "type": "file",
+        "md5": "119dfeb326641bb9125190c1dd755178"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-xl.jpg",
+        "type": "file",
+        "md5": "7119994abc4cdacd13db5097ec309346"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-24T195525.752-xs.jpg",
+        "type": "file",
+        "md5": "25ed8448f5055c4584a25a04c9851ac4"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/images-2026-11-24T183520.535.jpg",
+        "type": "file",
+        "md5": "c32527e0cc688b56f80dbe489b152523"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-24T183520.535-md.jpg",
+        "type": "file",
+        "md5": "ab779eef7c145efe235d96d27910d437"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-24T183520.535-sm.jpg",
+        "type": "file",
+        "md5": "1b6e1b5d03de519c90f79a111a055386"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-24T183520.535-xl.jpg",
+        "type": "file",
+        "md5": "ab779eef7c145efe235d96d27910d437"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-24T183520.535-xs.jpg",
+        "type": "file",
+        "md5": "d5dddd783501ad60e5d8e6fe744825e8"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/images-2026-11-24T183944.229.jpg",
+        "type": "file",
+        "md5": "9cf5b682899fc967c833c6630b16456c"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-24T183944.229-md.jpg",
+        "type": "file",
+        "md5": "4a3f0fd04f731bda1e429ee1a7b16ebd"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-24T183944.229-sm.jpg",
+        "type": "file",
+        "md5": "28dbac822edb932a31c5acfee4e1c082"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-24T183944.229-xl.jpg",
+        "type": "file",
+        "md5": "4a3f0fd04f731bda1e429ee1a7b16ebd"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-24T183944.229-xs.jpg",
+        "type": "file",
+        "md5": "220492f7fe53e67bff732f7324d3d330"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/images-2026-11-24T184601.786.jpg",
+        "type": "file",
+        "md5": "98d2590a81640d5ebba9ad1971f7168f"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-24T184601.786-md.jpg",
+        "type": "file",
+        "md5": "cec00f4055c2a359e6372ffcf489de90"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-24T184601.786-sm.jpg",
+        "type": "file",
+        "md5": "cec00f4055c2a359e6372ffcf489de90"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-24T184601.786-xl.jpg",
+        "type": "file",
+        "md5": "cec00f4055c2a359e6372ffcf489de90"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-24T184601.786-xs.jpg",
+        "type": "file",
+        "md5": "d3be87f92372ecbc2b506d0466de9124"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/images-2026-11-24T184917.855.jpg",
+        "type": "file",
+        "md5": "8683c8664a99eabcb5c588b707965bcc"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-24T184917.855-md.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-24T184917.855-sm.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-24T184917.855-xl.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-24T184917.855-xs.jpg",
+        "type": "file",
+        "md5": "49406f2198c3f796dc73ba85668a6282"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/images-2026-11-24T185400.412.jpg",
+        "type": "file",
+        "md5": "234233444b808edf1c90305a206e206c"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-24T185400.412-md.jpg",
+        "type": "file",
+        "md5": "f132d527b4113a0d8d158dd385adba72"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-24T185400.412-sm.jpg",
+        "type": "file",
+        "md5": "80ae93b85b01057be54a930ad241a30f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-24T185400.412-xl.jpg",
+        "type": "file",
+        "md5": "f132d527b4113a0d8d158dd385adba72"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-24T185400.412-xs.jpg",
+        "type": "file",
+        "md5": "c28f9e0e99c142668173087632b97243"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/images-2026-11-24T190153.811.jpg",
+        "type": "file",
+        "md5": "c30395a05619521462e44ee3772ce269"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-24T190153.811-md.jpg",
+        "type": "file",
+        "md5": "70d3fbff2afc1caeabef527c834c3388"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-24T190153.811-sm.jpg",
+        "type": "file",
+        "md5": "61562b000221b65d19be0a5eec30e3c6"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-24T190153.811-xl.jpg",
+        "type": "file",
+        "md5": "70d3fbff2afc1caeabef527c834c3388"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-24T190153.811-xs.jpg",
+        "type": "file",
+        "md5": "b5562721e7ebaf2cee50566c771b59ed"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/wardrobe-closet-pro-logo-md.png",
+        "type": "file",
+        "md5": "3e856d9c473fa61c876bd39d6b2f76a0"
+    },
+    {
+        "path": "/media/website/responsive/wardrobe-closet-pro-logo-sm.png",
+        "type": "file",
+        "md5": "2b2e25382f74986d0a0f4991ad3f1c4a"
+    },
+    {
+        "path": "/media/website/responsive/wardrobe-closet-pro-logo-xl.png",
+        "type": "file",
+        "md5": "f64a4fdc769b97223082455b4736f60a"
+    },
+    {
+        "path": "/media/website/responsive/wardrobe-closet-pro-logo-xs.png",
+        "type": "file",
+        "md5": "3dde417260af620dbf290d2b31f1b952"
+    },
+    {
+        "path": "/media/website/wardrobe-closet-pro-logo.png",
+        "type": "file",
+        "md5": "96646b603b4fed90fc59dd575761a718"
+    },
+    {
+        "path": "modern-bedroom-design-ideas-for-a-stylish-and-organized-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-bedroom-design-ideas-for-a-stylish-and-organized-home/index.html",
+        "type": "file",
+        "md5": "af18c406bb75f5acc9927040c0c36f43"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "d7ffa6cad7a067e4fb9a9537f2a5b7f5"
+    },
+    {
+        "path": "privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/privacy-policy/index.html",
+        "type": "file",
+        "md5": "388070f70274a98bef2397a429ed149a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "af07d1f32ecaa2a21f00efaa522963dc"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b87defe364fcb2763b433cfb67955df3"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "smart-bedroom-organization-ideas-for-a-comfortable-and-clutter-free-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-bedroom-organization-ideas-for-a-comfortable-and-clutter-free-home/index.html",
+        "type": "file",
+        "md5": "812b2ff4474bf3a13629401db4379d61"
+    },
+    {
+        "path": "smart-bedroom-storage-ideas-for-modern-and-organized-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-bedroom-storage-ideas-for-modern-and-organized-living-spaces/index.html",
+        "type": "file",
+        "md5": "6fccdb6b4292cdc58d83a0a1d0cb0b0a"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/built-in-wall-closets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/built-in-wall-closets/index.html",
+        "type": "file",
+        "md5": "cdecddf58306b646924a0cb628a85b8e"
+    },
+    {
+        "path": "tags/closet-storage-drawers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/closet-storage-drawers/index.html",
+        "type": "file",
+        "md5": "6edf5b7f3e4258c7093ea8c100808ce4"
+    },
+    {
+        "path": "tags/custom-island-dressers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/custom-island-dressers/index.html",
+        "type": "file",
+        "md5": "063a75316369bc9449605aa844a747c9"
+    },
+    {
+        "path": "tags/fitted-bedroom-closets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/fitted-bedroom-closets/index.html",
+        "type": "file",
+        "md5": "09264282e4640bedd2b53fafd4bdfaed"
+    },
+    {
+        "path": "tags/glass-panel-wardrobes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/glass-panel-wardrobes/index.html",
+        "type": "file",
+        "md5": "3d4a80d6ca16e08122550c4926f37fe7"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "5709fe8bdec2870585e486627d11ed43"
+    },
+    {
+        "path": "tags/matte-finish-sliders",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/matte-finish-sliders/index.html",
+        "type": "file",
+        "md5": "d25c4d6268ba2f7d47af839d2052e0dd"
+    },
+    {
+        "path": "tags/modular-closet-organizers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modular-closet-organizers/index.html",
+        "type": "file",
+        "md5": "bb544efe7dadcb68c6f97924a933f51f"
+    },
+    {
+        "path": "tags/open-hanging-rails",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/open-hanging-rails/index.html",
+        "type": "file",
+        "md5": "f307c638b603227946ec681481b875af"
+    },
+    {
+        "path": "tags/shoe-display-towers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/shoe-display-towers/index.html",
+        "type": "file",
+        "md5": "877acc63d0970c8f6b0f48575f7044a5"
+    },
+    {
+        "path": "tags/sliding-door-closets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sliding-door-closets/index.html",
+        "type": "file",
+        "md5": "588b0a6e925392580c12fe1291d51122"
+    },
+    {
+        "path": "tags/sloped-ceiling-closets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sloped-ceiling-closets/index.html",
+        "type": "file",
+        "md5": "b3468529986fdf30772f73aba161db28"
+    },
+    {
+        "path": "tags/under-bed-drawer-units",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/under-bed-drawer-units/index.html",
+        "type": "file",
+        "md5": "762d8348498401b0bd017f1f331b0207"
+    },
+    {
+        "path": "tags/velvet-lined-jewelry-trays",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/velvet-lined-jewelry-trays/index.html",
+        "type": "file",
+        "md5": "d13b779ce907a6ea2976acf2038bc0cf"
+    },
+    {
+        "path": "tags/walk-in-wardrobe-systems",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/walk-in-wardrobe-systems/index.html",
+        "type": "file",
+        "md5": "f04225d457054c638003a726f32f441e"
+    }
+]
